@@ -2,7 +2,7 @@ Task 2
 
 # FirstRestAPI 
    
-This project is a  REST API catalogue built with Spring Boot that  which allows users to create, read, update, and delete products (CRUD) through HTTP endpoints, using an H2 in-memory database for storage via Spring Data JPA. It follows a layered architecture (Steriotypes): Controller, Service, Repository, and Mapper. It also includes Swagger UI for interactive API documentation.
+This project is a  REST API catalogue built with Spring Boot which allows users to create, read, update, and delete products (CRUD) through HTTP endpoints, using an H2 in-memory database for storage via Spring Data JPA. It follows a layered architecture (Steriotypes): Controller, Service, Repository, and Mapper. It also includes Swagger UI for interactive API documentation.
 
 Base URL: http://localhost:8080/api/v1/products,
 Interactive Swagger Interface: http://localhost:8080/swagger-ui/index.html
